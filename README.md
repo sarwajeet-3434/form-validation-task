@@ -1,4 +1,4 @@
-# Software Testing Intern Assignment - Websites.co.in
+# Software Testing Intern Assignment
 
 ## Overview
 This repository contains the submission for the Software Testing Intern position at Websites.co.in. The project includes a web-based contact form with JavaScript validation and a Python data collection script.
